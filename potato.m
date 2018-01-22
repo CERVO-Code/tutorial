@@ -1,3 +1,4 @@
+1;
 
 clc
 clear all
@@ -7,4 +8,5 @@ fprint('Hi Andreanne, how are you?')
 
 x = 2+2;
 fprint('what is x?')
+disp('I am fine and you')
 disp('The cake is a lie')
