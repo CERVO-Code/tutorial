@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-print 'Hello conflict, from Simon'
-print 'and from Daniel'
-=======
-print 'Hello conflict, from Simon'
-print 'and from Daniel and damon')
->>>>>>> master
